@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Hero Section -->
-    <div class="relative isolate overflow-hidden bg-white h-dvh">
+    <div class="relative isolate overflow-hidden bg-[#C3D1FF] h-dvh">
       <spline-viewer class="" url="https://prod.spline.design/DnqgDtZpObPviN7n/scene.splinecode"></spline-viewer>
       <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40 z-10 absolute top-0 left-72">
         <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
