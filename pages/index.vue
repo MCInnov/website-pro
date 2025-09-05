@@ -174,6 +174,72 @@
       </div>
     </div>
 
+    <!-- Testimonials Section -->
+    <div class="bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:text-center">
+          <h2 class="text-base font-semibold leading-7 text-primary-600">Témoignages</h2>
+          <p class="mt-2 text-3xl font-heading font-bold tracking-tight text-gray-900 sm:text-4xl">
+            Ce que mes clients disent de moi
+          </p>
+        </div>
+        <div class="mx-auto mt-16 flow-root sm:mt-20">
+          <div class="-m-4">
+            <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+              <div class="p-4">
+                <div class="h-full rounded-lg bg-gray-50 p-8">
+                  <div class="flex items-center">
+                    <div class="inline-flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary-100 text-primary-500">
+                      <img class="h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                    </div>
+                    <div class="ml-4">
+                      <p class="text-base font-medium text-gray-900">Judith Black</p>
+                      <p class="text-sm text-gray-500">CEO, Company</p>
+                    </div>
+                  </div>
+                  <p class="mt-6 text-base text-gray-600">
+                    “MaxiDev a transformé notre vision en une application web performante. Leur expertise et leur professionnalisme ont été essentiels à notre succès.”
+                  </p>
+                </div>
+              </div>
+              <div class="p-4">
+                <div class="h-full rounded-lg bg-gray-50 p-8">
+                  <div class="flex items-center">
+                    <div class="inline-flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary-100 text-primary-500">
+                      <img class="h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                    </div>
+                    <div class="ml-4">
+                      <p class="text-base font-medium text-gray-900">Joseph Gray</p>
+                      <p class="text-sm text-gray-500">CTO, Another Company</p>
+                    </div>
+                  </div>
+                  <p class="mt-6 text-base text-gray-600">
+                    “Leur approche DevSecOps a grandement amélioré la sécurité de notre infrastructure. Une équipe compétente et fiable.”
+                  </p>
+                </div>
+              </div>
+              <div class="p-4">
+                <div class="h-full rounded-lg bg-gray-50 p-8">
+                  <div class="flex items-center">
+                    <div class="inline-flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary-100 text-primary-500">
+                      <img class="h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                    </div>
+                    <div class="ml-4">
+                      <p class="text-base font-medium text-gray-900">Michael Foster</p>
+                      <p class="text-sm text-gray-500">Founder, Startup</p>
+                    </div>
+                  </div>
+                  <p class="mt-6 text-base text-gray-600">
+                    “Grâce à l'automatisation mise en place par MaxiDev, nous avons gagné un temps précieux et optimisé nos processus internes.”
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Call to Action -->
     <div class="bg-white">
       <div class="mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8">
