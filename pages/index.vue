@@ -4,12 +4,12 @@
     <div class="relative isolate overflow-hidden bg-[#C3D1FF] h-dvh">
       <spline-viewer class="" url="https://prod.spline.design/DnqgDtZpObPviN7n/scene.splinecode"></spline-viewer>
       <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40 z-10 absolute top-0 left-72">
-        <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-          <div class="mt-24 sm:mt-32 lg:mt-16">
+        <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:p-8 backdrop-blur-md rounded-xl ring-1 ring-inset ring-sky-50/10">
+          <div class="mt-8 sm:mt-16 lg:mt-4">
             <a href="/contact" class="inline-flex space-x-6">
-              <span class="rounded-full bg-green-600/10 px-3 py-1 text-sm font-semibold leading-6 text-green-600 ring-1 ring-inset ring-green-600/10">
-                <Icon name="svg-spinners-pulse-rings-multiple" size="1.5em"/>
-                Disponible pour nouveaux projets
+              <span class=" flex items-center rounded-full bg-green-600/10 px-3 py-1 text-sm font-semibold leading-6 text-green-600 ring-1 ring-inset ring-green-600/10 drop-shadow-lg">
+                <Icon name="svg-spinners-pulse-rings-multiple" size="1.5em" class="mr-2"/>
+                Disponible pour de nouveaux projets
               </span>
             </a>
           </div>
@@ -17,7 +17,7 @@
             Transformez vos idées en solutions digitales performantes
           </h1>
           <p class="mt-6 text-lg leading-8 text-gray-600">
-            Expert passionné en développement web, je crée des solutions sur mesure qui propulsent votre entreprise vers le succès. Spécialisé en Vue.js, automatisation n8n et DevSecOps, j'allie expertise technique et vision stratégique pour concrétiser vos projets.
+            Expert passionné en développement web, je crée des solutions sur mesure qui propulsent votre entreprise vers le succès. Spécialisé en Nuxt, automatisation n8n et DevSecOps, j'allie expertise technique et vision stratégique pour concrétiser vos projets.
           </p>
           <div class="mt-10 flex items-center gap-x-6">
             <NuxtLink
