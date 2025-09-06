@@ -18,13 +18,7 @@ export default defineNuxtConfig({
     pageTransition: { name: 'page', mode: 'out-in' }
   },
 
-  modules: [
-    '@nuxtjs/tailwindcss',
-    '@nuxt/image',
-    '@vueuse/nuxt',
-    '@nuxtjs/google-fonts',
-    '@nuxtjs/robots'
-  ],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/image', '@vueuse/nuxt', '@nuxtjs/google-fonts', '@nuxtjs/robots', '@nuxt/icon'],
 
   googleFonts: {
     families: {

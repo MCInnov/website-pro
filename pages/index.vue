@@ -7,7 +7,10 @@
         <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
           <div class="mt-24 sm:mt-32 lg:mt-16">
             <a href="/contact" class="inline-flex space-x-6">
-              <span class="rounded-full bg-primary-600/10 px-3 py-1 text-sm font-semibold leading-6 text-primary-600 ring-1 ring-inset ring-primary-600/10">Disponible pour nouveaux projets</span>
+              <span class="rounded-full bg-green-600/10 px-3 py-1 text-sm font-semibold leading-6 text-green-600 ring-1 ring-inset ring-green-600/10">
+                <!-- <Icon name="svg-spinners-pulse-rings-multiple"/> -->
+                Disponible pour nouveaux projets
+              </span>
             </a>
           </div>
           <h1 class="mt-10 text-4xl font-heading font-bold tracking-tight text-white sm:text-6xl">
