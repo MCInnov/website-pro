@@ -8,7 +8,7 @@
           <div class="mt-24 sm:mt-32 lg:mt-16">
             <a href="/contact" class="inline-flex space-x-6">
               <span class="rounded-full bg-green-600/10 px-3 py-1 text-sm font-semibold leading-6 text-green-600 ring-1 ring-inset ring-green-600/10">
-                <!-- <Icon name="svg-spinners-pulse-rings-multiple"/> -->
+                <Icon name="svg-spinners-pulse-rings-multiple" size="1.5em"/>
                 Disponible pour nouveaux projets
               </span>
             </a>
